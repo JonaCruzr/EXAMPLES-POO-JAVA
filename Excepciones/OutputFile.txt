@@ -1,0 +1,5 @@
+Valor: 0 = 5
+Valor: 1 = 6
+Valor: 2 = 8
+Valor: 3 = 9
+Valor: 4 = 2
